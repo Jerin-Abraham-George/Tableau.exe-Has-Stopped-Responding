@@ -65,4 +65,60 @@ A donut chart showing Airbnb neighborhood distribution across boroughs:
 ### **6. Average Price by Neighborhood**
 Bar chart highlighting neighborhoods with the highest Airbnb prices:  
 - 🏖 **Fort Wadsworth:** \$800.00  
+- **Woodrow:** \$700.00  
+- **Tribeca:** \$490.64  
+- **Sea Gate:** \$487.86  
 
+---
+
+### **7. Average Price Map (NYC)**
+Geospatial map plotting Airbnb listings by price intensity across NYC boroughs.
+
+---
+
+### **8. Total Reviews by Year**
+Bar chart showing Airbnb growth in NYC by year.  
+**Insight:** Significant growth from 2016 to 2019, with total reviews surpassing 130K in 2019.
+
+---
+
+### **9. Total Bookings by Month & Neighbourhood Group**
+Stacked bar chart displaying monthly booking patterns.  
+**Insight:** **June** sees the highest bookings, indicating peak tourist activity.
+
+---
+
+## ⚙️ Data Source
+Dataset: **Airbnb NYC 2019 Open Data**  
+Source: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)  
+Data includes:
+- Listing ID, host details, neighborhood group, room type, price, reviews, and location coordinates.
+
+---
+
+## 🧩 Tools Used
+- **Tableau Desktop / Tableau Public**
+- **Data Cleaning:** Excel / Python (optional preprocessing)
+- **Visualization Techniques:** Treemap, Heatmap, Map Plot, Bar & Donut Charts
+
+---
+
+## 🚀 How to Use
+1. Open the Tableau `.twb` or `.twbx` file in **Tableau Desktop**.  
+2. Explore the interactive filters:
+   - **Room Type**
+   - **Neighbourhood Group**
+3. Hover over charts for detailed tooltips.  
+4. Use the map to explore pricing distribution across boroughs.
+
+---
+
+## 💡 Insights Summary
+- Manhattan and Brooklyn dominate Airbnb listings and bookings.  
+- The Bronx offers the best engagement rate (reviews per month).  
+- Prices are highest in Manhattan and luxury neighborhoods like Tribeca and Fort Wadsworth.  
+- Peak booking months occur during **May–June**, aligning with NYC’s travel season.  
+
+---
+
+## 📁 Repository Structure
