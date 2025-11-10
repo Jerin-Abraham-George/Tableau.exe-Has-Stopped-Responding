@@ -92,7 +92,7 @@ Stacked bar chart displaying monthly booking patterns.
 
 ## ⚙️ Data Source
 Dataset: **Airbnb NYC 2019 Open Data**  
-Source: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)  
+Source: Excel/CSV File.
 Data includes:
 - Listing ID, host details, neighborhood group, room type, price, reviews, and location coordinates.
 
