@@ -121,3 +121,5 @@ Data includes:
 - Peak booking months occur during **May–June**, aligning with NYC’s travel season.  
 
 ---
+
+💸🗽 *"Manhattan prices so high, even your wallet needs a side hustle."*
