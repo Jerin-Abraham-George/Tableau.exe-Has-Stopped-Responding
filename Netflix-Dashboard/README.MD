@@ -5,6 +5,8 @@ The **Netflix Analytics Dashboard** is a data visualization project built using 
 
 With this dashboard, you can analyze content growth, identify top-performing genres, compare ratings, and visualize Netflix's global footprint.
 
+https://github.com/user-attachments/assets/c9be21cd-f899-4d5b-aa6f-29e26e721ca6
+
 ---
 
 ## 🎯 Objectives
